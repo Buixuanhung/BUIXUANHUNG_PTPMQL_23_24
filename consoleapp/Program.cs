@@ -2,8 +2,8 @@
 {
     private static void Main(string[] args )
     {
-        Console.Write("nhap vao du lieu: ");
-          string str = Console.ReadLine();
-        Console.WriteLine("du lieu vua nhap vao la: " + str);  
+        string hoTen = "BUI XUAN HUNG";
+        int Tuoi = 22;
+        Console.WriteLine("Sinh Vien {0} - {1}  Tuoi",hoTen,Tuoi);
     }
 }
