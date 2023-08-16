@@ -2,18 +2,19 @@
 {
     private static void Main(string[] args )
     {
-        int a = 10;
-        if ( a < 0 )
+        int day = 2;
+        switch(day)
         {
-            System.Console.WriteLine("{0} la so nguye am", a);
-
-        } else {
-            if ( a % 2 == 0){
-                System.Console.WriteLine("{0} la so guyen duong chan", a);
-
-            } else{
-                System.Console.WriteLine("{0} La so nguyen duong le", a);
-            }
+             case 1 : System.Console.WriteLine("chu nhat "); break;
+             case 2 : System.Console.WriteLine("thu 2 "); break;
+             case 3 : System.Console.WriteLine("thu 3 "); break;
+             case 4 : System.Console.WriteLine("thu 4 "); break;
+             case 5 : System.Console.WriteLine("thu 5 "); break;
+             case 6 : System.Console.WriteLine("thu 6 "); break;
+             case 7 : System.Console.WriteLine("thu 7 "); break;
+             default :
+                  System.Console.WriteLine("khong phai ngay trong tuan");
+                  break;
         }
         
     }
