@@ -2,11 +2,17 @@
 {
     private static void Main(string[] args )
     {
-        int a,b;
-        System.Console.Write("a = ");
-        a = Convert.ToInt32(Console.ReadLine());
-        System.Console.Write("b = ");
-        b = Convert.ToInt32(Console.ReadLine());
-        System.Console.WriteLine("{0} + {1} = {2}",a,b,a+b);
+        float a = 2;
+        if ( a >= 8){
+            System.Console.WriteLine("hoc sinh hoc luc gioi");
+        } else if ( a>= 6.5){
+            System.Console.WriteLine("hoc sinh hoc luc kha");
+        } else if ( a>= 5){
+            System.Console.WriteLine("hoc sinh hoc luc trung binh");
+        } else if ( a>= 3.5){
+            System.Console.WriteLine("hoc sinh hoc luc yeu");
+        } else {
+            System.Console.WriteLine("hoc sinh hoc luc kem");
+        }
     }
 }
