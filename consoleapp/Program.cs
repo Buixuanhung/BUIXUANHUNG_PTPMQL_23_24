@@ -2,8 +2,8 @@
 {
     private static void Main(string[] args )
     {
-        string hoTen = "BUI XUAN HUNG";
-        int Tuoi = 22;
-        Console.WriteLine("Sinh Vien {0} - {1}  Tuoi",hoTen,Tuoi);
+        const string hoTen ="BUI XUAN HUNG";
+        const int namlamViec = 8;
+        Console.WriteLine("Nhan vien {0} - {1} nam kinh nghiem",hoTen,namlamViec);
     }
 }
