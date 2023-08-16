@@ -2,17 +2,19 @@
 {
     private static void Main(string[] args )
     {
-        float a = 2;
-        if ( a >= 8){
-            System.Console.WriteLine("hoc sinh hoc luc gioi");
-        } else if ( a>= 6.5){
-            System.Console.WriteLine("hoc sinh hoc luc kha");
-        } else if ( a>= 5){
-            System.Console.WriteLine("hoc sinh hoc luc trung binh");
-        } else if ( a>= 3.5){
-            System.Console.WriteLine("hoc sinh hoc luc yeu");
+        int a = 10;
+        if ( a < 0 )
+        {
+            System.Console.WriteLine("{0} la so nguye am", a);
+
         } else {
-            System.Console.WriteLine("hoc sinh hoc luc kem");
+            if ( a % 2 == 0){
+                System.Console.WriteLine("{0} la so guyen duong chan", a);
+
+            } else{
+                System.Console.WriteLine("{0} La so nguyen duong le", a);
+            }
         }
+        
     }
 }
