@@ -2,8 +2,10 @@
 {
     private static void Main(string[] args )
     {
-        const string hoTen ="BUI XUAN HUNG";
-        const int namlamViec = 8;
-        Console.WriteLine("Nhan vien {0} - {1} nam kinh nghiem",hoTen,namlamViec);
+        string str = "123";
+        int ketqua;
+        bool kiemtra = false;
+        kiemtra = int.TryParse(str,out(ketqua));
+        System.Console.WriteLine("ketqua = " + ketqua);
     }
 }
