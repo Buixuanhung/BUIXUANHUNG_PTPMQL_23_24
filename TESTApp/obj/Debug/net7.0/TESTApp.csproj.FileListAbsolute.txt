@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\bin\Debug\net7.0\TESTApp.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\bin\Debug\net7.0\TESTApp.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\bin\Debug\net7.0\TESTApp.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\bin\Debug\net7.0\TESTApp.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\bin\Debug\net7.0\TESTApp.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\refint\TESTApp.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\TESTApp.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\PTPMQL23-24\TESTApp\obj\Debug\net7.0\ref\TESTApp.dll

@@ -12,7 +12,7 @@ namespace NewApp.Models
             System.Console.Write("Address = ");
             Address = Console.ReadLine();
             System.Console.Write("Age = ");
-            Age = Convert.ToInt16(Console.ReadLine());
+            Age =  Convert.ToInt16(Console.ReadLine());
             
         }
          public void Display()
